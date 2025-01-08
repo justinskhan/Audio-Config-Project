@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(4, 1, 18, 0.904);
+}
+
+body { 
+    color: white;
+}
+
+h1{ 
+    font-size: 40px;
+    border: 4px solid purple;
+    min-height: 40px;
+    display: flex; 
+    justify-content: left; /* for x axis center */ 
+    align-items: baseline; /* for y axis center */
+}
